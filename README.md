@@ -34,7 +34,7 @@ I'm a Chief Technology Officer with 9 years of experience, passionate about deve
 
 ## 📈 GitHub Stats
 
-![Konders]([https://github-readme-stats.vercel.app/api?username=Konders&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=Konders&show_icons=true&theme=nord&count_private=true))
+![Konders]([https://github-readme-stats.vercel.app/api?username=Konders&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=Konders&show_icons=true&theme=nord&count_private=true)
 
 ## 📬 Get in Touch
 
