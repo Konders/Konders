@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Illia! 👋
 
+[![](https://visitcount.itsvg.in/api?id=Konders&label=Profile%20Views&color=6&icon=3&pretty=true)](https://visitcount.itsvg.in)
 [![GitHub followers](https://img.shields.io/github/followers/Konders?style=social)](https://github.com/Konders?tab=followers)
 
 I'm a Chief Technology Officer with 9 years of experience, passionate about development of challenging projects.
